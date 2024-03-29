@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi D
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working on JAVA
+- 🌱 I’m currently working on JAVA and RUBY ON RAILS
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me ravidgowda00@gmail.com
 
